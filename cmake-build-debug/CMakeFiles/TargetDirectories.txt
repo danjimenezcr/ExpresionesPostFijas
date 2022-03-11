@@ -1,0 +1,3 @@
+C:/Users/danjs/Documents/2022 - I Semester/Datos/Homework/ShortHomework1/cmake-build-debug/CMakeFiles/ShortHomework1.dir
+C:/Users/danjs/Documents/2022 - I Semester/Datos/Homework/ShortHomework1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/danjs/Documents/2022 - I Semester/Datos/Homework/ShortHomework1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

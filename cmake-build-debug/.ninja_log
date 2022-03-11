@@ -1,0 +1,26 @@
+# ninja log v5
+4	432	6686789911605822	CMakeFiles/ShortHomework1.dir/main.cpp.obj	eed06f15384e0b3a
+4	579	6686789528183141	CMakeFiles/ShortHomework1.dir/classes.cpp.obj	353fb4abf1d9fd22
+579	738	6686789529704021	ShortHomework1.exe	3337c57fe8241973
+3	526	6686790159792027	CMakeFiles/ShortHomework1.dir/main.cpp.obj	eed06f15384e0b3a
+18	575	6686790160244388	CMakeFiles/ShortHomework1.dir/classes.cpp.obj	353fb4abf1d9fd22
+575	729	6686790161752456	ShortHomework1.exe	3337c57fe8241973
+3	429	6686790939536606	CMakeFiles/ShortHomework1.dir/main.cpp.obj	eed06f15384e0b3a
+430	564	6686790940841826	ShortHomework1.exe	3337c57fe8241973
+3	514	6686800818156166	CMakeFiles/ShortHomework1.dir/main.cpp.obj	eed06f15384e0b3a
+21	625	6686800819266840	CMakeFiles/ShortHomework1.dir/classes.cpp.obj	353fb4abf1d9fd22
+625	803	6686800820966300	ShortHomework1.exe	3337c57fe8241973
+4	1060	6686801637288173	CMakeFiles/ShortHomework1.dir/classes.cpp.obj	353fb4abf1d9fd22
+1061	1397	6686801640349115	ShortHomework1.exe	3337c57fe8241973
+3	1101	6686803878857278	CMakeFiles/ShortHomework1.dir/classes.cpp.obj	353fb4abf1d9fd22
+1106	1505	6686803882712428	ShortHomework1.exe	3337c57fe8241973
+3	949	6686804063216647	CMakeFiles/ShortHomework1.dir/classes.cpp.obj	353fb4abf1d9fd22
+952	1352	6686804066552409	ShortHomework1.exe	3337c57fe8241973
+5	751	6686804811165345	CMakeFiles/ShortHomework1.dir/main.cpp.obj	eed06f15384e0b3a
+25	1006	6686804947899018	CMakeFiles/ShortHomework1.dir/main.cpp.obj	eed06f15384e0b3a
+6	1039	6686804948763423	CMakeFiles/ShortHomework1.dir/classes.cpp.obj	353fb4abf1d9fd22
+1039	1286	6686804951085064	ShortHomework1.exe	3337c57fe8241973
+3	1011	6686806678877230	CMakeFiles/ShortHomework1.dir/classes.cpp.obj	353fb4abf1d9fd22
+1012	1339	6686806682010052	ShortHomework1.exe	3337c57fe8241973
+3	833	6686807895947114	CMakeFiles/ShortHomework1.dir/classes.cpp.obj	353fb4abf1d9fd22
+834	1152	6686807899096914	ShortHomework1.exe	3337c57fe8241973
